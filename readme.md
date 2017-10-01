@@ -1,4 +1,4 @@
-# basic2d
+# basic3d
 
 **This module is deprecated and should not be used in newly written software**
 
